@@ -12,10 +12,14 @@
 ## Log
 ### 1기 
 - 기간 : 2020.12.01 - 2021.01.31
+  - -2020.12.14 : 스터디 형태 논의, 개인 목표 정하기
+  - 2020.12.19 : 작업 시작
 - 참여자 : [@kimsunoh](https://github.com/kimsunoh),[@RudiaMoon](https://github.com/RudiaMoon), [@ohahohah](https://github.com/ohahohah), [@louisJu](https://github.com/louisJu)
-- 정기적으로 모이는 시간 : 논의 중
-- 정기 회고일 : 논의 중
+- 정기 작업일 : 월,화,수,금 AM 09:00 - 09:35 (회고 5분 포함)
+- 정기 회고일 : 격주 금요일 AM 09:00 - 09:35 / 분기 회고 및 스터디 형식 개선
 - 회고 모음 페이지 : 링크 추후 추가
+
+
 #### 개인 목표 & 결과물 페이지
 - [@RudiaMoon](https://github.com/RudiaMoon)
   - 목표 : 
