@@ -1,0 +1,5 @@
+- 기간 : 2020.12.01 - 2021.01.11
+- 기간 목표 : 2020년 회고 - [issue #5](https://github.com/pro00er/improve-ourselves/issues/5)
+- 목표 달성을 위한 계획: 
+  - 계획이 있었지만 action 하지 않음
+- [ ] 나는 왜 작업을 하지 않았나? - [issue #12](https://github.com/pro00er/improve-ourselves/issues/12)
