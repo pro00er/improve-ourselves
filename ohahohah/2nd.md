@@ -3,9 +3,9 @@
 - 목표 달성을 위한 계획: 
   - 몸풀기를 위해 일단 시작한다. 이번 기수에서는 생각나는 대로 자료를 git 에 올린다.
   - 강의자료 git 으로 이동 https://github.com/ohahohah/TIL/tree/master/lecture
-<details><summary>작업 기록 양식</summary>
-- 작업 내용 :
-- 작업일 : 
+<details><summary>일일 작업 기록 양식</summary>
+  
+## 작업 내용 - 작업일
 - 산출물(commit url,블로그 주소,...) : 
 - 회고(KPT) :
   - Keep (만족,지속):
@@ -14,8 +14,7 @@
 - 기타 메모 : 
 </details>
 
-- 작업 내용 : 웹 기초 참고자료 git 으로 이동
-- 작업일 : 2021/01/28
+## 웹 기초 참고자료 git 으로 이동 - 2021-01-28
 - 산출물(commit url,블로그 주소,...) : https://github.com/ohahohah/TIL/commit/a26844e78a9e3986c5992000c215e720a6f51cf8
 - 회고(KPT)
   - Keep (만족,지속): 뭐라도 일단 시작함. 바로 액션하기
