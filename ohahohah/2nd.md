@@ -15,6 +15,15 @@
 - 기타 메모 : 
 </details>
 
+## web scraping 10분 튜토리얼 git 이동 - 2021-01-29
+- 산출물(commit url,블로그 주소,...) : https://github.com/ohahohah/TIL/commit/26ca6f324abf6235ced426723a1b1fc99ad98463
+- 회고(KPT) :
+  - Keep (만족,지속): 일단 한다
+  - Problem(불편,개선 필요): 산출물 commit url 수동으로 복사해야하는 거 귀찮음
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 특정 키워드가 포함된 commit 의 url 해쉬값 조회하는 git command 찾아보기
+- 기타 메모 : 
+
+
 ## 웹 기초 참고자료 git 으로 이동 - 2021-01-28
 - 산출물(commit url,블로그 주소,...) : https://github.com/ohahohah/TIL/commit/a26844e78a9e3986c5992000c215e720a6f51cf8
 - 회고(KPT)
