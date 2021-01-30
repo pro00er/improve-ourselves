@@ -29,6 +29,10 @@
   - 공약 예시: 석고대죄 사진 찍어 올리기. 반성문 쓰기
 </details>
 
+## 3기 (예정)
+- 기간 : 2021-02-18 - 
+- SLiPP 스터디에서 인원 추가 모집 - [SLiPP 모집글](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52528484#id-0%EC%A3%BC%EC%B0%A8-20%EC%B0%A8%EC%8A%A4%ED%84%B0%EB%94%94%EC%97%90%EC%A0%9C%EC%95%88%ED%95%9C%EC%A3%BC%EC%A0%9C-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%84%9C%EB%82%A8%EC%A3%BC%EA%B8%B0) / [issue 10](https://github.com/pro00er/improve-ourselves/issues/10)
+
 ## 2기
 - 기간 : 2021-01-24 - 2021-02-17
 #### 개인 목표 & 결과물 페이지
