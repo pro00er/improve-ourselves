@@ -29,10 +29,26 @@
   - 공약 예시: 석고대죄 사진 찍어 올리기. 반성문 쓰기
 </details>
 
-## Log
-### 2기
+## 2기
 - 기간 : 2021.01.24 - 2021.02.17
-  - 2021.01.24 : 
+#### 개인 목표 & 결과물 페이지
+- [@kimsunoh](https://github.com/kimsunoh)
+  - 목표 :
+  - 결과물 페이지 : 
+- [@RudiaMoon](https://github.com/RudiaMoon)
+  - 목표 : 
+  - 결과물 페이지 : 
+- [@ohahohah](https://github.com/ohahohah)
+  - 목표 :
+  - 결과물 페이지 : 
+  - 작업 계획 : 
+- [@louisJu](https://github.com/louisJu)
+  - 목표 :
+  - 결과물 페이지 : 
+
+
+### 로그 
+- 2021.01.24 : 
     <details><summary>스터디 형태 논의</summary>
 
     - [SLiPP 커뮤니티](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52528381) 통해 3기 추가 모집 예정- 추가 2명
@@ -65,7 +81,7 @@
     - [issue #11 - 작업 기록용 템플릿 만들기](https://github.com/pro00er/improve-ourselves/issues/11)
     </details>
 
-### 1기 
+## 1기 
 - 기간 : 2020.12.01 - 2021.01.11
   - 2020.12.14 : 스터디 형태 논의, 개인 목표 정하기
   - 2020.12.19 : 작업 시작
