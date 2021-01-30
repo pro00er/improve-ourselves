@@ -39,9 +39,12 @@
   - 목표 : 
   - 결과물 페이지 : 
 - [@ohahohah](https://github.com/ohahohah)
-  - 목표 :
-  - 결과물 페이지 : 
+  - 목표 : 강의 자료를 한 군데에 모으자. 이력 추적이 쉽고 일상적으로 쓰는 git 에 모은다
+  - 결과물 페이지 : https://github.com/ohahohah/TIL/tree/master/lecture
   - 작업 계획 : 
+    - 몸풀기를 위해 일단 시작한다. 이번 기수에서는 생각나는 대로 자료를 git repo 에 올린다.
+    - 오전 10시 - 11시 진행 
+    - 작업량을 가늠하고 계획에 참고하기 위해 얼마의 시간을 들였는지 함께 기록
 - [@louisJu](https://github.com/louisJu)
   - 목표 :
   - 결과물 페이지 : 
