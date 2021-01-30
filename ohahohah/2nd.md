@@ -15,6 +15,14 @@
 - 기타 메모 : 
 </details>
 
+## 강의 자료 리스트 만들기 - 2021-01-30
+- 산출물(commit url,블로그 주소,...) : https://github.com/ohahohah/TIL/commit/d31f7142025eba6a9f0825a7a3b0ac4bbea47532
+- 회고(KPT) :
+  - Keep (만족,지속): 일단 한다
+  - Problem(불편,개선 필요): 쌓여있는 Try 리스트가 신경쓰임. 오늘 작업과 연관없는 Try 도 있다. 
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): Try 를 issue 에 등록하고, 1주일에 하루는 try item 을 작업한다
+
+
 ## web scraping 10분 튜토리얼 git 이동 - 2021-01-29
 - 산출물(commit url,블로그 주소,...) : https://github.com/ohahohah/TIL/commit/26ca6f324abf6235ced426723a1b1fc99ad98463
 - 회고(KPT) :
