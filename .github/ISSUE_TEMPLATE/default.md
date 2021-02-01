@@ -1,7 +1,7 @@
 ---
 name: 기본 이슈
-about: 
-title: 
+about: 기본 이슈
+title: ""
 labels: 
 assignees: 
 
