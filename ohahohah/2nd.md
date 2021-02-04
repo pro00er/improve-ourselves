@@ -6,12 +6,26 @@
   - 강의자료 git 으로 이동 https://github.com/ohahohah/TIL/tree/master/lecture
 <details><summary>일일 작업 기록 양식</summary>
 
+양식 1. KPT  
+
 ## 작업 내용 - 작업일
 - 산출물(commit url,블로그 주소,...) : 
 - 회고(KPT) :
   - Keep (만족,지속):
   - Problem(불편,개선 필요):
   - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 
+- 기타 메모 : 
+
+양식 2. [5Fs](http://egloos.zum.com/agile/v/4122099)
+
+## 작업 내용 - 작업일
+- 산출물(commit url,블로그 주소,...) : 
+- 회고(5Fs) :
+  - 사실 (Facts) :
+  - 느낌 (Feeling) :
+  - 배운 점 (Findings)
+  - 미래의 행동계획 (Future / action item): 
+  - 피드백 (Feedback / 스크럼 기간 동안 Future 실행 후, 주간회고 직전 항목 채우기):
 - 기타 메모 : 
 
 </details>
@@ -40,7 +54,7 @@
   - 배운 점 (Findings): KPT 말고 5Fs 회고 스타일로 하는게 더 맞을 때도 있다! 틀에 얽매이지 말자. 
   - 미래의 행동계획 (Future / action item)
     - 상황에 맞게 회고 포맷을 바꾸자. 어떤 상황은 어떤 회고 양식을 쓸지 정하지 않았다. 회고를 작성하면서 더 맞다고 생각하는 걸로 바꾸자. 
-    - [ ] 회고 포맷 추가하기  
+    - [x] 회고 포맷 추가하기  
   - 피드백 (Feedback / 스크럼 기간 동안 Future 실행 후, 주간회고 직전 항목 채우기): 5Fs 섞어쓰면 어떤지 적어보자. 
 
   3. 공남주 작업 첫 일과로 하기 - 잠을 좀 잡시당
