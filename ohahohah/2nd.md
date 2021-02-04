@@ -43,7 +43,7 @@
     - 작업량 제한시켜서 부담이 덜하다.
   - 배운 점 (Findings) : 할 수 있는 것만, 찬찬히 살펴보면서 해봅시당
   - 미래의 행동계획 (Future / action item)
-    - [ ]중요도가 떨어지는 action item - [issue 13](https://github.com/pro00er/improve-ourselves/issues/13) 삭제
+    - [x] 중요도가 떨어지는 action item - [issue 13](https://github.com/pro00er/improve-ourselves/issues/13) 삭제
     - [ ] 다음 작업에서는 항목 재구성 30분동안 해본다.
   - 피드백 (Feedback / 스크럼 기간 동안 Future 실행 후, 주간회고 직전 항목 채우기)
     - [ ] 항목 재구성 작업 어땠는지 적기
@@ -90,11 +90,12 @@
   - Keep (만족,지속): 뭐라도 일단 시작함. 바로 액션하기
   - Problem(불편,개선 필요): 기존 자료를 git 내에 자료를 남겨두려면 어떻게 해야하나. 지금 사용하고 있는 범위에서는 git 안에서 확인하기 가장 편한 형식이 markdown.
   - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 
-    - [ ] 진짜로 관리 하기 쉽게 한 곳에 모으는데 적합한 툴이 git 인가? 더 편한 방법은 없나? 아래 질문 + a에 1 pmd 동안 생각해 적어보기
-      - git 에 자료 모으기 편한 2가지 방안 적기
-      - notion 자료를 이력 추적 쉽게 만들 수 있는 방법이 무엇인가?
-        - markdown 으로 바꾸기 - notion 자료를 markdown 으로 변환할 수 있는 툴은 무엇이지?
-        - notion -> html -> markdown 변환 툴 찾기 
-    - [ ] 위에서 방법을 찾았다면 다음 action item은 무엇인지 3가지 적는다.
+    - 아래 아이템을 하지 않기로 결정 - 2021-02-04
+      - 진짜로 관리 하기 쉽게 한 곳에 모으는데 적합한 툴이 git 인가? 더 편한 방법은 없나? 아래 질문 + a에 1 pmd 동안 생각해 적어보기
+        - git 에 자료 모으기 편한 2가지 방안 적기
+        - notion 자료를 이력 추적 쉽게 만들 수 있는 방법이 무엇인가?
+          - markdown 으로 바꾸기 - notion 자료를 markdown 으로 변환할 수 있는 툴은 무엇이지?
+          - notion -> html -> markdown 변환 툴 찾기 
+      - 위에서 방법을 찾았다면 다음 action item은 무엇인지 3가지 적는다.
 - 기타 메모 : try 를 어떻게 하면 까먹지 않고 Todo로 옮길 수 있을까?
 
