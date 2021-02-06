@@ -8,8 +8,12 @@
 ## 산출물
 - https://impactyoung.tistory.com/entry/Android-GPS-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC
 - [작업중] https://www.notion.so/rudiamoon/949ce5e9d5414f3886810bbffcf180f0
+- [작업중] https://www.notion.so/rudiamoon/GPS-Tutorial-6fc2441ce88d46ed968360780aa17d5f
 
 ## 회고
+### 2021.02.06
+- Keep (만족,지속): 그래도 반성문 쓰기 싫어서 지속하게 된다.
+
 ### 2021.01.29
 - Keep (만족,지속): 드디어 글을 남겼다. 죽이되든 밥이 되든 일단 정리했으면 공유하고 보자!
 - Problem(불편,개선 필요): 
