@@ -51,8 +51,8 @@
   - 목표 :
   - 결과물 페이지 : 
 - [@RudiaMoon](https://github.com/RudiaMoon)
-  - 목표 : 
-  - 결과물 페이지 : 
+  - 목표 : GPS 기능에 대한 튜토리얼 정리
+  - 결과물 페이지 : https://impactyoung.tistory.com/
 - [@ohahohah](https://github.com/ohahohah)
   - 목표 : 강의 자료를 한 군데에 모으자. 이력 추적이 쉽고 일상적으로 쓰는 git 에 모은다
   - 결과물 페이지 : https://github.com/ohahohah/TIL/tree/master/lecture
