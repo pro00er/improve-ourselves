@@ -4,10 +4,13 @@
 
 ## Who? 
 (실명 가나다순)
-- [@kimsunoh](https://github.com/kimsunoh)  
 - [@RudiaMoon](https://github.com/RudiaMoon)
 - [@ohahohah](https://github.com/ohahohah)
 - [@louisJu](https://github.com/louisJu)
+
+### 지금은 쉬고 있어요
+- [@kimsunoh](https://github.com/kimsunoh)  
+
 
 
 ## 어떻게
@@ -41,8 +44,15 @@
 </details>
 
 ## 3기 (예정)
-- 기간 : 2021-02-18 - 
+- 기간 : 2021-02-15 - 
 - SLiPP 스터디에서 인원 추가 모집 - [SLiPP 모집글](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52528484#id-0%EC%A3%BC%EC%B0%A8-20%EC%B0%A8%EC%8A%A4%ED%84%B0%EB%94%94%EC%97%90%EC%A0%9C%EC%95%88%ED%95%9C%EC%A3%BC%EC%A0%9C-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%84%9C%EB%82%A8%EC%A3%BC%EA%B8%B0) / [issue 10](https://github.com/pro00er/improve-ourselves/issues/10)
+
+
+### pre 3기
+- 기간 : 2021-02-07 - 2021-02-14
+- 1주일 동안 새로 합류한 팀원이 회고 기록 남기기에 익숙할 시간을 가집니다.
+- 회고기록을 기반으로 모여 주간 회고를 가집니다.
+
 
 ## 2기
 - 기간 : 2021-01-24 - 2021-02-17
