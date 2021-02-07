@@ -11,9 +11,21 @@
 - 산출물(commit url,블로그 주소,...) :  https://j-louis.tistory.com/2?category=678990
 - 회고(KPT) :
   - Keep (만족,지속): 드디어 작성, 첫 시작에 만족
-  - Problem(불편,개선 필요): 구성에 고민을 많이 했떤 점
+  - Problem(불편,개선 필요): 구성에 고민을 많이 했던 점
   - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 좀 더 가볍게 생각해서 작성해서 발행하기
 - 기타 메모 :
+
+### 2주차 2nd
+- 작업 내용 : 우아한 테크 캠프 PRO 2주차 리뷰작성
+- 작업일 : 20210207
+- 산출물(commit url,블로그 주소,...) : https://j-louis.tistory.com/3
+- 회고(KPT) :
+  - Keep (만족,지속): 회고 기한 내에 목표달성
+  - Problem(불편,개선 필요): 블로그 포스팅 기능을 많이 사용하지 못한 점?
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 포스팅할때마다 하나씩 추가로 써보면서 발생하기
+- 기타 메모 : 
+
+
 <details><summary>작업 기록 양식</summary>
 
 - 작업 내용 :
