@@ -30,6 +30,19 @@
 
 </details>
 
+## 이전 기수 답변 코드조각 백업 - 2021-02-06
+- 산출물(commit url,블로그 주소,...) : 
+  - https://github.com/ohahohah/TIL/commit/01ba4fcd11a23acd4799d98a11e236061b9721c9
+  - https://github.com/ohahohah/TIL/commit/979f5960960704f7df8cea66a56c06bcc53ce3d4
+- 회고(KPT) :
+  - Keep (만족,지속): 작은 답변도 일단 백업했다!
+  - Problem(불편,개선 필요): 앞 뒤 맥락이 빠져있다, 내용을 보고 코드를 프로젝트에서 사용하려면 배경지식이 같이 있어야한다. 
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 
+    - 이전 기수 답변들 중 반복되는 내용 백업
+    - 하나의 짧은 아티클로 만든다
+- 기타 메모 : 
+
+
 ## 웹 기초 참고자료 리뉴얼 항목 정하기 - 2021-02-04
 - 산출물(commit url,블로그 주소,...) : https://github.com/ohahohah/TIL/commit/01ba4fcd11a23acd4799d98a11e236061b9721c9
 - 회고(5Fs) :
