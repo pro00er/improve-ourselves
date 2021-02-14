@@ -71,7 +71,7 @@
 - trytocloud : 리액트 학습 정리 / 2회
 - lisaimeee : 리액트 책 읽고 강의 듣고 정리 / 2회
 - [@parksangdonews](https://github.com/parksangdonews)
-  - 목표 : 작성하고 있는 책 원고 스케쥴표 공개하고 공개치 달성 - 2회
+  - 목표 : 책 원고 스케쥴표 공개하고 1일 최소 2페이지 진행 - 2회
   - 결과물 페이지 : https://docs.google.com/spreadsheets/d/1rl3XeNFcg2NWWXkV_DZLBsGos1bLUOF1gfhEciisvHM/edit?usp=sharing
   - 목표 : 남주기 위해서 유튜브 1회
   - 결과물 페이지 : https://www.youtube.com/user/parksangdonews
