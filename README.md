@@ -60,8 +60,39 @@
 ### pre 3기
 - 기간 : 2021-02-07 - 2021-02-21
 - 새로 합류한 팀원 대상. 회고 기록 남기기에 익숙해지는 것을 목표로 합니다.  
-- 회고기록을 기반으로 다함께 주간 회고를 가집니다. 2/14 일 20-21시
-<details><summary>각자 목표</summary>
+- 회고기록을 기반으로 다함께 주간 회고를 가집니다. 
+  - 2/14, 2/21 일 20-21시
+
+<details><summary> 2021-02-14 ~ 2021-02-21 목표</summary>
+
+- isoo : (업데이트 예정)
+- kulee: 쿠버네티스 관련 기술 포스팅 / 2회 
+- kwl : (업데이트 예정)
+- trytocloud : 리액트 학습 정리 / 2회
+- lisaimeee : 리액트 책 읽고 강의 듣고 정리 / 2회
+- [@parksangdonews](https://github.com/parksangdonews)
+  - 목표 : 작성하고 있는 책 원고 스케쥴표 공개하고 공개치 달성 - 2회
+  - 결과물 페이지 : https://docs.google.com/spreadsheets/d/1rl3XeNFcg2NWWXkV_DZLBsGos1bLUOF1gfhEciisvHM/edit?usp=sharing
+  - 목표 : 남주기 위해서 유튜브 1회
+  - 결과물 페이지 : https://www.youtube.com/user/parksangdonews
+</details>
+
+
+<details><summary> 목표 2021-02-07 ~ 2021-02-14 목표</summary>
+
+- kulee: 쿠버네티스 관련 기술 포스팅 / 2회 
+- kwl : 불참
+- trytocloud : 책 읽고 인상 깊은 구절 및 단락 남기기 / 3회
+- lisaimeee : 리액트 책 읽고 강의 듣고 정리 / 2회
+- [@parksangdonews](https://github.com/parksangdonews)
+  - 목표 : 작성하고 있는 책 원고 스케쥴표 공개하고 공개치 달성 - 3회
+  - 결과물 페이지 : https://docs.google.com/spreadsheets/d/1rl3XeNFcg2NWWXkV_DZLBsGos1bLUOF1gfhEciisvHM/edit?usp=sharing
+  - 목표 : 남주기 위해서 유튜브 1회
+  - 결과물 페이지 : https://www.youtube.com/user/parksangdonews
+</details>
+
+
+<details><summary>목표 2021-02-07 ~ 2021-02-14</summary>
 
 - kulee: 쿠버네티스 관련 기술 포스팅 / 2회 
 - kwl : (업데이트 예정)
@@ -78,9 +109,6 @@
 ## 2기
 - 기간 : 2021-01-24 - 2021-02-17
 #### 개인 목표 & 결과물 페이지
-- [@kimsunoh](https://github.com/kimsunoh)
-  - 목표 :
-  - 결과물 페이지 : 
 - [@RudiaMoon](https://github.com/RudiaMoon)
   - 목표 : GPS 기능에 대한 튜토리얼 정리
   - 결과물 페이지 : https://impactyoung.tistory.com/
@@ -99,6 +127,14 @@
     - 학습 내용 & 미션에 대한 회고를 기록
 
 ### 로그 
+- 2021-02-14
+  - 이번 회차가 끝나면 3기로 넘어간다. 
+  <details><summary>목표 2021-02-14 ~ 2021-02-21</summary>
+  - [@RudiaMoon](https://github.com/RudiaMoon) / 주 3회
+  - [@louisJu](https://github.com/louisJu) / 주 3회
+  - [@ohahohah](https://github.com/ohahohah) / 주 3회
+</details>
+
 - 2021-02-07
   <details><summary>진행 내용</summary>
 
