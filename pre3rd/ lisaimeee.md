@@ -6,12 +6,15 @@
 <details><summary>일일 작업 기록 양식</summary>
 양식 1. KPT  
 
-## 작업 내용 - 작업일
-- 산출물(commit url,블로그 주소,...) : 
+## 책 읽고 공부한 것 남기기 - 2021.02.13
+- 산출물(commit url,블로그 주소,...) :  https://lisamkk.tistory.com/2 
 - 회고(KPT) :
-  - Keep (만족,지속):
-  - Problem(불편,개선 필요):
+  - Keep (만족,지속): 
+    - 지하철에서 책이 잘 읽힌다. 
+  - Problem(불편,개선 필요): 
+    - 자꾸 핸드폰을 하고 싶고 티비 보고 싶다 
   - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 
+    - 대중 교통 이용시간을 적극 활용하자
 - 기타 메모 : 
 
 양식 2. [5Fs](http://egloos.zum.com/agile/v/4122099)
