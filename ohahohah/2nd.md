@@ -30,6 +30,15 @@
 
 </details>
 
+## CORS 레퍼런스 추가 - 20210220
+- 산출물 : https://bit.ly/web-ref-syoh - CORS
+- 회고(KPT)
+  - Keep (만족,지속): 생각날 때마다 자료 적기
+  - Problem(불편,개선 필요):
+    - 지난 Try 아이템들이 정리 안 되고 있다!
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능)
+    - 월, 화 작업시간에는 쌓인 Try item 정리하는 것으로.
+
 ## 클라우드 도입 설명 자료 추가 - 20210216
 - 산출물 : https://bit.ly/web-ref-syoh - 클라우드 섹션
 - 회고(KPT)
