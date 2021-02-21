@@ -1,6 +1,8 @@
 # improve-ourselves
-- 공부해서 남주자. Improve ourselves.
-- 블로그,유튭, 컨퍼런스 발표, 오픈소스프로젝트 등 지식 나눔을 목적으로 매일 꾸준히 시간내어서 작업하기
+- 공부해서 남 주자(a.k.a 공남주). Improve ourselves.
+- Opensource, blog, youtube, conference 발표 등을 하며 다른 사람에게 내 지식을 나눈다. 
+- 꾸준히 작업하는 습관을 들이고, 단위/분기마다 회고한다.
+- 우리는 서로에게 피드백을 주며 작업을 개선해나간다.
 
 ## Who? 
 [@RudiaMoon](https://github.com/RudiaMoon) [@ohahohah](https://github.com/ohahohah) [@louisJu](https://github.com/louisJu) [@lisaimeee](https://github.com/lisaimeee) [@trytocloud](https://github.com/trytocloud) [@parksangdonews](https://github.com/parksangdonews) [@ku-lee](https://github.com/ku-lee) [@isooo](https://github.com/isooo) [@wikim](https://github.com/wikim)
