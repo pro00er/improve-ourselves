@@ -3,15 +3,10 @@
 - 블로그,유튭, 컨퍼런스 발표, 오픈소스프로젝트 등 지식 나눔을 목적으로 매일 꾸준히 시간내어서 작업하기
 
 ## Who? 
-(실명 가나다순)
-- [@RudiaMoon](https://github.com/RudiaMoon)
-- [@ohahohah](https://github.com/ohahohah)
-- [@louisJu](https://github.com/louisJu)
+[@RudiaMoon](https://github.com/RudiaMoon) [@ohahohah](https://github.com/ohahohah) [@louisJu](https://github.com/louisJu) [@lisaimeee](https://github.com/lisaimeee) [@trytocloud](https://github.com/trytocloud) [@parksangdonews](https://github.com/parksangdonews) [@ku-lee](https://github.com/ku-lee) [@isooo](https://github.com/isooo) [@wikim](https://github.com/wikim)
 
 ### 지금은 쉬고 있어요
-- [@kimsunoh](https://github.com/kimsunoh)  
-
-
+[@kimsunoh](https://github.com/kimsunoh)  
 
 ## 어떻게
 - 2-3개월 단위 기수제로 진행한다. 
@@ -52,9 +47,58 @@
   - 목표 변경시 : `CNG_PURPOSE: 목표 내용 #issue_number`
 </details>
 
-## 3기 (예정)
-- 기간 : 2021-02-22 - 
+## 3기
+- 기간 : 2021-02-22 - 2021-06-09
 - SLiPP 스터디에서 인원 추가 모집 - [SLiPP 모집글](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52528484#id-0%EC%A3%BC%EC%B0%A8-20%EC%B0%A8%EC%8A%A4%ED%84%B0%EB%94%94%EC%97%90%EC%A0%9C%EC%95%88%ED%95%9C%EC%A3%BC%EC%A0%9C-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%84%9C%EB%82%A8%EC%A3%BC%EA%B8%B0) / [issue 10](https://github.com/pro00er/improve-ourselves/issues/10)
+- 매주 일요일 모여 주간 회고합니다. [기록-SLiPP wiki](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52528511)
+- 작업 방식 (2021-02-21 업데이트)
+  - 작업 단위는 자율입니다. 작업 단위마다 회고해주세요. 
+    - 작업 단위 1회 예시. 
+      - task 기준 : 블로그 1회 작성
+      - 시간 양 기준 : 30분 동안 작업한 양 / 하루동안 작업한 양,...
+  - 작업 회고는 [3기 폴더](/3rd) 개인 페이지에 적습니다. 
+
+<details><summary> 2021-02-22 ~ 2021-02-28 목표</summary>
+
+- 스터디 작업 방식이 확정될 때까지 주차별 목표로 진행합니다. 
+- [@RudiaMoon](https://github.com/RudiaMoon) 
+  - 무엇을 작업:
+  - 작업 단위 :
+  - 1주일에 n회
+- [@ohahohah](https://github.com/ohahohah) 
+  - 무엇을 작업 : 
+  - 1회 작업 단위 : 30분 동안 작업한 양
+  - 1주일에 5회
+- [@louisJu](https://github.com/louisJu) 
+  - 무엇을 작업:
+  - 작업 단위 :
+  - 1주일에 n회
+- [@lisaimeee](https://github.com/lisaimeee) 
+  - 무엇을 작업:
+  - 작업 단위 :
+  - 1주일에 n회
+- [@trytocloud](https://github.com/trytocloud) 
+  - 무엇을 작업:
+  - 작업 단위 :
+  - 1주일에 n회
+- [@parksangdonews](https://github.com/parksangdonews) 
+  - 무엇을 작업:
+  - 작업 단위 :
+  - 1주일에 n회
+- [@ku-lee](https://github.com/ku-lee) 
+  - 무엇을 작업:
+  - 작업 단위 :
+  - 1주일에 n회
+- [@isooo](https://github.com/isooo) 
+  - 무엇을 작업:
+  - 작업 단위 :
+  - 1주일에 n회
+- [@wikim](https://github.com/wikim)
+  - 무엇을 작업:
+  - 작업 단위 :
+  - 1주일에 n회
+
+</details>
 
 ### pre 3기
 - 기간 : 2021-02-07 - 2021-02-21
