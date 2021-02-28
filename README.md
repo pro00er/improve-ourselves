@@ -68,9 +68,9 @@
   - 작업 단위 :
   - 1주일에 n회
 - [@ohahohah](https://github.com/ohahohah) 
-  - 무엇을 작업 : 
+  - 무엇을 작업 : Spring Boot 책 번역
   - 1회 작업 단위 : 30분 동안 작업한 양
-  - 1주일에 5회
+  - 1주일에 4회
 - [@louisJu](https://github.com/louisJu) 
   - 무엇을 작업:
   - 작업 단위 :
