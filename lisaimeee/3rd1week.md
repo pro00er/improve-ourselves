@@ -37,6 +37,15 @@
 - 기타 메모 : 
 </details>
 
+## 작업 내용 - 2021-03-06 같은 2021-03-07
+- 산출물 https://lisamkk.tistory.com/9
+- 회고(KPT) :
+  - Keep (만족,지속): 흠
+  - Problem(불편,개선 필요): 쓸게 없어서 쥐어짜는 중 :( 
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 아부지 정답을알려줘
+- 기타 메모 : 
+
+
 ## 작업 내용 - 2021-03-05
 - 산출물 https://lisamkk.tistory.com/8
 - 회고(KPT) :
