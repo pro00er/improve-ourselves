@@ -14,3 +14,4 @@
   - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): WBS
 - 기타 메모 : 
  
+ 
