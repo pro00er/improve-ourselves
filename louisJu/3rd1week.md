@@ -9,11 +9,11 @@
 양식 1. KPT  
 
 ## 작업 내용 - 작업일
-- 산출물(commit url,블로그 주소,...) : https://j-louis.tistory.com/5
+- 산출물(commit url,블로그 주소,...) : 
 - 회고(KPT) :
-  - Keep (만족,지속): 와 너무 오랜만에 포스팅 했고 회고 했다.
-  - Problem(불편,개선 필요): 1회 작업 단위를 조금 세분화 할 필요가 있다. 토요일까지 올리지 못했다. 
-  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 다음주엔 토요일까지 회고 완성하기!
+  - Keep (만족,지속): 
+  - Problem(불편,개선 필요): 
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 
 - 기타 메모 : 
 
 양식 2. [5Fs](http://egloos.zum.com/agile/v/4122099)
@@ -30,10 +30,10 @@
 
 </details>
 
-## 작업 기록 예시 - 2021-02-22
-- 산출물(commit url,블로그 주소,...) : 
+## 작업 내용 - 20210307
+- 산출물(commit url,블로그 주소,...) : https://j-louis.tistory.com/5
 - 회고(KPT) :
-  - Keep (만족,지속):
-  - Problem(불편,개선 필요):
-  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 
+  - Keep (만족,지속): 와 너무 오랜만에 포스팅 했고 회고 했다.
+  - Problem(불편,개선 필요): 1회 작업 단위를 조금 세분화 할 필요가 있다. 토요일까지 올리지 못했다. 
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): 다음주엔 토요일까지 회고 완성하기!
 - 기타 메모 : 
