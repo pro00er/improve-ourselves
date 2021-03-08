@@ -84,9 +84,9 @@
   - 작업 단위 :
   - 1주일에 n회
 - [@parksangdonews](https://github.com/parksangdonews) 
-  - 무엇을 작업:
-  - 작업 단위 :
-  - 1주일에 n회
+  - 무엇을 작업: 자바 개발자 책 집필
+  - 작업 단위 : 2 페이지  
+  - 1주일에 5회 
 - [@ku-lee](https://github.com/ku-lee) 
   - 무엇을 작업:
   - 작업 단위 :
