@@ -39,7 +39,7 @@
 
 
 ## 작업 내용 - 2021-03-21
-- 산출물 https://lisamkk.tistory.com/22
+- 산출물 https://lisamkk.tistory.com/23
 - 회고(KPT) :
   - Keep (만족,지속): 리액트 강의 들으면서 작성한 강의 노트를 블로그로 옮기니까 . 
   - Problem(불편,개선 필요): 바빴다.ㅋㅋ 
