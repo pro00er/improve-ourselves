@@ -38,6 +38,23 @@
 </details>
 
 
+## 작업 내용 - 2021-05-16
+- 산출물 https://lisamkk.tistory.com/33
+- 회고(KPT) :
+  - Keep (만족,지속): 작성했다! 
+  - Problem(불편,개선 필요): 어려웠다.. 
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): ? 
+- 기타 메모 : 
+
+
+## 작업 내용 - 2021-05-16
+- 산출물 https://lisamkk.tistory.com/32
+- 회고(KPT) :
+  - Keep (만족,지속): 작성했다! 
+  - Problem(불편,개선 필요): 어려웠다.. 
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): ? 
+- 기타 메모 : 
+
 
 ## 작업 내용 - 2021-05-09
 - 산출물 https://lisamkk.tistory.com/31
