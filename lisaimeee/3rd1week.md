@@ -46,7 +46,7 @@
 - 기타 메모 : 
 
 ## 작업 내용 - 2021-05-16
-- 산출물 https://lisamkk.tistory.com/34
+- 산출물 https://lisamkk.tistory.com/35
 - 회고(KPT) :
   - Keep (만족,지속): DDD 다읽었다 드디어 :)  
   - Problem(불편,개선 필요): 어려워서 이해하지 못하는 부분은 글로 적기도 어렵네 :( 
