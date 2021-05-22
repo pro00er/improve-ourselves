@@ -37,6 +37,21 @@
 - 기타 메모 : 
 </details>
 
+## 작업 내용 - 2021-05-22
+- 산출물 https://lisamkk.tistory.com/36
+- 회고(KPT) :
+  - Keep (만족,지속): mysql 인덱스 까먹지 말장! 
+  - Problem(불편,개선 필요): 책에는 그림이 있어서 이해하기 쉬운데, 글로 옮기려니 어려웠당. 
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): . ? 
+- 기타 메모 : 
+
+## 작업 내용 - 2021-05-16
+- 산출물 https://lisamkk.tistory.com/34
+- 회고(KPT) :
+  - Keep (만족,지속): DDD 다읽었다 드디어 :)  
+  - Problem(불편,개선 필요): 어려워서 이해하지 못하는 부분은 글로 적기도 어렵네 :( 
+  - Try(problem 해결책/ 당장 실행 가능한 action item && 실행 여부를 다음 회고때 확인 가능): ? 
+- 기타 메모 : 
 
 ## 작업 내용 - 2021-05-16
 - 산출물 https://lisamkk.tistory.com/33
